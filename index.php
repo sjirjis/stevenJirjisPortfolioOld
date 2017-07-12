@@ -1,1 +1,1 @@
-<?php include_once("indexconstruction"); ?>
+<?php include_once("indexconstruction.html"); ?>
